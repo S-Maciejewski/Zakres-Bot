@@ -6,7 +6,7 @@ Do uruchomienia potrzeba node.js (https://nodejs.org), generator jest uruchamian
 
 Polecenie do uruchomienia:
 
-```node app.js <nazwa> <ile>```,
+```node app.js <nazwa> <ile>```
 
 gdzie `<nazwa>` to nazwa projektu / aplikacji (najlepiej po angielsku) a `<ile>` to liczba zakresów, które mają zostać wygenerowane.
 
