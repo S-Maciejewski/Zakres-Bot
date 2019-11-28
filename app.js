@@ -5,6 +5,9 @@ const verb = [
     'Zaimplementowanie',
     'Zaprojektowanie',
     'Zaprojektowanie i implementacja',
+    'Zbudowanie',
+    'Sporządzenie',
+    'Opracowanie',
 ]
 
 const adjectiveCore = [
@@ -19,6 +22,8 @@ const maleNoun = [
     'interfejsu',
     'elementu',
     'schematu',
+    'modułu',
+    'składnika',
 ]
 
 const femaleNoun = [
@@ -37,6 +42,8 @@ const pluralNoun = [
     'schematów',
     'funkcji',
     'metod',
+    'modułów',
+    'składników',
 ]
 
 const secondNoun = [
